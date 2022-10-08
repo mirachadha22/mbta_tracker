@@ -1,0 +1,15 @@
+server {
+
+	listen 80;
+	listen [::]:80;
+
+	root /home/project/cs4550-project/mbta-tracker/web-ui;
+
+	index index.html;
+
+	server_name mbta.zialynnanderson.site;
+
+	location / {
+		try_files $uri $uri/ /index.html;
+	}
+}

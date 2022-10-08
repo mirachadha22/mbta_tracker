@@ -1,0 +1,22 @@
+
+1. Who's on your team?
+* Zialynn Anderson (4th year in Electrical and Computer Engineering)
+* Kate Rupar (4th year in Computer Science)
+* Mira Chadha (2nd year in Computer Science)
+* Sanjana Dutt (2nd year in Computer Science)
+
+2. What's the URL for your presentation video?
+https://drive.google.com/file/d/1nryP_qsRDgITECvh9VaexnWWjje2KKQQ/view?usp=sharing
+
+Space for grading, just upload this as is:
+
+ - One
+ - Two
+ - Three
+ - Four
+ - Five
+ - Six
+ - Seven
+ - Eight
+ - Nine
+ - Ten

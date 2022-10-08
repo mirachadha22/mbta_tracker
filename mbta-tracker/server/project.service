@@ -1,0 +1,18 @@
+[Unit]
+Description=Final Project: MBTA Tracker
+
+[Service]
+Type=simple
+User=project
+Group=project
+Restart=on-failure
+Environment=MIX_ENV=prod
+Environment=PORT=4830
+Environment=PROD=true
+Environment=LANG=en_US.UTF-8
+
+WorkingDirectory=/home/project/cs4550-project/mbta-tracker/server
+ExecStart=/bin/bash /home/project/cs4550-project/mbta-tracker/server/start.sh
+
+[Install]
+WantedBy=multi-user.target
